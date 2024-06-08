@@ -15,7 +15,7 @@ In this guide, we will be installing Active Directory on Windows Server 2022 in 
 ## Main Objectives
 
 
-- Initialize Active Directory Domain Services and promote our main machine to Domain Controller on Windows Server 2022.
+- Initialize our main machine and promote to Domain Controller on Windows Server 2022.
 - Initialize and connect to our domain our secondary machine using Windows 10.
 
 
